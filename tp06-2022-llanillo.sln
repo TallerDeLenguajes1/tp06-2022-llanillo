@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio1", "Ejercicio1\Ejercicio1.csproj", "{2ECF8475-77C5-4B20-8DF9-ED0A98E90845}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio2", "Ejercicio2\Ejercicio2.csproj", "{8A95AF8F-2EBB-431D-A981-85C224858EB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2ECF8475-77C5-4B20-8DF9-ED0A98E90845}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ECF8475-77C5-4B20-8DF9-ED0A98E90845}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ECF8475-77C5-4B20-8DF9-ED0A98E90845}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ECF8475-77C5-4B20-8DF9-ED0A98E90845}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A95AF8F-2EBB-431D-A981-85C224858EB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A95AF8F-2EBB-431D-A981-85C224858EB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A95AF8F-2EBB-431D-A981-85C224858EB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A95AF8F-2EBB-431D-A981-85C224858EB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
